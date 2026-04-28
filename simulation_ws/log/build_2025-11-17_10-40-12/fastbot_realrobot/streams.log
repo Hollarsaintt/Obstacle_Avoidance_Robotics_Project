@@ -1,0 +1,49 @@
+[0.398s] Invoking command in '/home/user/simulation_ws/build/fastbot_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/fastbot_realrobot -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/fastbot_realrobot
+[10.193s] -- The C compiler identification is GNU 11.4.0
+[13.434s] -- The CXX compiler identification is GNU 11.4.0
+[13.656s] -- Detecting C compiler ABI info
+[13.950s] -- Detecting C compiler ABI info - done
+[13.963s] -- Check for working C compiler: /usr/bin/cc - skipped
+[13.964s] -- Detecting C compile features
+[14.039s] -- Detecting C compile features - done
+[14.045s] -- Detecting CXX compiler ABI info
+[14.369s] -- Detecting CXX compiler ABI info - done
+[14.369s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[14.369s] -- Detecting CXX compile features
+[14.369s] -- Detecting CXX compile features - done
+[14.378s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[15.227s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[15.699s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[16.028s] -- Added test 'flake8' to check Python code syntax and style conventions
+[16.031s] -- Added test 'lint_cmake' to check CMake code style
+[16.033s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[16.039s] -- Added test 'xmllint' to check XML markup files
+[16.043s] -- Configuring done
+[16.047s] -- Generating done
+[16.048s] -- Build files have been written to: /home/user/simulation_ws/build/fastbot_realrobot
+[16.054s] Invoked command in '/home/user/simulation_ws/build/fastbot_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/fastbot_realrobot -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/fastbot_realrobot
+[16.056s] Invoking command in '/home/user/simulation_ws/build/fastbot_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/fastbot_realrobot -- -j8 -l8
+[16.107s] Invoked command in '/home/user/simulation_ws/build/fastbot_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/fastbot_realrobot -- -j8 -l8
+[16.149s] Invoking command in '/home/user/simulation_ws/build/fastbot_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/fastbot_realrobot
+[16.158s] -- Install configuration: ""
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot//launch
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot//launch/rviz.launch.py
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot//launch/main_fastbot_lab.launch.xml
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot//rviz
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot//rviz/fastbot.rviz
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/ament_index/resource_index/package_run_dependencies/fastbot_realrobot
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/ament_index/resource_index/parent_prefix_path/fastbot_realrobot
+[16.159s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/environment/ament_prefix_path.sh
+[16.160s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/environment/ament_prefix_path.dsv
+[16.160s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/environment/path.sh
+[16.160s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/environment/path.dsv
+[16.160s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/local_setup.bash
+[16.161s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/local_setup.sh
+[16.161s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/local_setup.zsh
+[16.161s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/local_setup.dsv
+[16.161s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/package.dsv
+[16.161s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/ament_index/resource_index/packages/fastbot_realrobot
+[16.162s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/cmake/fastbot_realrobotConfig.cmake
+[16.162s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/cmake/fastbot_realrobotConfig-version.cmake
+[16.162s] -- Installing: /home/user/simulation_ws/install/fastbot_realrobot/share/fastbot_realrobot/package.xml
+[16.164s] Invoked command in '/home/user/simulation_ws/build/fastbot_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/fastbot_realrobot

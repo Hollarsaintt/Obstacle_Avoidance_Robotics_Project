@@ -1,0 +1,70 @@
+[0.395s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3_ros2/turtlebot3_realrobot -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_realrobot
+[15.798s] -- The C compiler identification is GNU 11.4.0
+[15.799s] -- The CXX compiler identification is GNU 11.4.0
+[15.799s] -- Detecting C compiler ABI info
+[15.800s] -- Detecting C compiler ABI info - done
+[15.801s] -- Check for working C compiler: /usr/bin/cc - skipped
+[15.802s] -- Detecting C compile features
+[15.802s] -- Detecting C compile features - done
+[15.803s] -- Detecting CXX compiler ABI info
+[15.804s] -- Detecting CXX compiler ABI info - done
+[15.804s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[15.804s] -- Detecting CXX compile features
+[15.804s] -- Detecting CXX compile features - done
+[15.804s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[15.804s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[15.804s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[16.101s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[16.130s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[16.172s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[16.407s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[16.476s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[17.146s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[17.260s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[17.857s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[17.917s] -- Found FastRTPS: /opt/ros/humble/include  
+[18.002s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[18.136s] -- Looking for pthread.h
+[19.286s] -- Looking for pthread.h - found
+[19.286s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[19.376s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[19.377s] -- Found Threads: TRUE  
+[19.759s] -- Found geometry_msgs: 4.2.3 (/home/simulations/ros2_sims_ws/install/geometry_msgs/share/geometry_msgs/cmake)
+[19.821s] -- Found nav_msgs: 4.2.3 (/home/simulations/ros2_sims_ws/install/nav_msgs/share/nav_msgs/cmake)
+[20.197s] -- Found sensor_msgs: 4.2.3 (/home/simulations/ros2_sims_ws/install/sensor_msgs/share/sensor_msgs/cmake)
+[20.354s] -- Found tf2: 0.25.6 (/opt/ros/humble/share/tf2/cmake)
+[20.398s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[20.584s] -- Added test 'flake8' to check Python code syntax and style conventions
+[20.587s] -- Added test 'lint_cmake' to check CMake code style
+[20.589s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[20.592s] -- Added test 'xmllint' to check XML markup files
+[20.597s] -- Configuring done
+[20.606s] -- Generating done
+[20.609s] -- Build files have been written to: /home/user/simulation_ws/build/turtlebot3_realrobot
+[20.624s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3_ros2/turtlebot3_realrobot -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_realrobot
+[20.626s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_realrobot -- -j8 -l8
+[20.702s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_realrobot -- -j8 -l8
+[20.758s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_realrobot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_realrobot
+[20.768s] -- Install configuration: ""
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//launch
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//launch/rviz.launch.py
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//launch/robot_state_publisher.launch.py
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//launch/main_turtlebot3_lab.launch.xml
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//rviz
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot//rviz/tb3_burger.rviz
+[20.768s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/ament_index/resource_index/package_run_dependencies/turtlebot3_realrobot
+[20.769s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/ament_index/resource_index/parent_prefix_path/turtlebot3_realrobot
+[20.769s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/environment/ament_prefix_path.sh
+[20.769s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/environment/ament_prefix_path.dsv
+[20.769s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/environment/path.sh
+[20.769s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/environment/path.dsv
+[20.770s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/local_setup.bash
+[20.770s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/local_setup.sh
+[20.770s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/local_setup.zsh
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/local_setup.dsv
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/package.dsv
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/ament_index/resource_index/packages/turtlebot3_realrobot
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/cmake/turtlebot3_realrobotConfig.cmake
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/cmake/turtlebot3_realrobotConfig-version.cmake
+[20.771s] -- Installing: /home/user/simulation_ws/install/turtlebot3_realrobot/share/turtlebot3_realrobot/package.xml
+[20.773s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_realrobot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/simulation_ws/install/turtlebot3_teleop:/home/user/simulation_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_realrobot
